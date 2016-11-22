@@ -1,6 +1,6 @@
 # hello-world
 
-* Hello, world!
+## Hello, world!
 
 This is my first repository. I'm just testing out markdown syntax.
 
