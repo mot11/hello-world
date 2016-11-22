@@ -12,4 +12,4 @@ Here are some of my hobbies:
 * taking fun stuff w/ my camera
 * learning to code _(I hope I'll get better at it!)_
 
-That's it for now! Hope you have a good day.
+That's it for now! Hope you have a good day. ;)
