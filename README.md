@@ -13,3 +13,6 @@ Here are some of my hobbies:
 * learning to code _(I hope I'll get better at it!)_
 
 That's it for now! Hope you have a good day. ;)
+ oo
+ 
+ ojp
